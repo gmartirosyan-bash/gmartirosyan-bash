@@ -17,20 +17,15 @@ I'm a self-taught full-stack developer from Armenia with a strong focus on build
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React
-- Redux Toolkit
-- TypeScript  
-- Tailwind CSS  
-  
+- HTML5, CSS3, Tailwind CSS
+- JavaScript (ES6+), TypeScript
+- React, Redux Toolkit
+
 **Backend:**  
-- Node.js  
-- Express  
-- MongoDB with Mongoose  
-- RESTful APIs  
+- Node.js, Express.js
+- MongoDB, Mongoose
 - JWT Authentication
+- RESTful APIs, GraphQL
 
 **Other:**  
 - Git & GitHub  
