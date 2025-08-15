@@ -49,13 +49,13 @@ Built with **React, Node.js, TypeScript, MongoDB**, and deployed on Render.
 - Phone: 37498188213
 ---
 
+<!--
 ## ⚡ Currently
 
 I’m actively looking for **junior developer roles**, **internships**, or **freelance opportunities**.  
 If you’re building something meaningful and need a sharp, motivated developer — I’d love to talk.
 
 
-<!--
 **gmartirosyan-bash/gmartirosyan-bash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
