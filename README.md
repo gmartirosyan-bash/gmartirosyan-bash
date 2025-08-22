@@ -6,7 +6,7 @@ I'm a self-taught full-stack developer from Armenia with a strong focus on build
 
 ## 🧠 About Me
 
-- 8 months of focused experience in full-stack development  
+- Nearly a year of focused experience in full-stack development  
 - Built a complete Trello-style task management app with drag-and-drop, JWT auth, and real-time UI  
 - Strong grasp of **JavaScript, TypeScript, React, Node.js, Express, MongoDB**  
 - Passionate about clean architecture, meaningful UI, and developer autonomy  
