@@ -1,46 +1,6 @@
 ## Hi, I’m Gagik Martirosyan 👋
 
-I'm a self-taught full-stack developer from Armenia with a strong focus on building **real-world, production-grade web applications**.
-
----
-
-## 🧠 About Me
-
-- Over a year of focused experience in full-stack development  
-- Built a complete Trello-style task management app with drag-and-drop, JWT auth, and real-time UI  
-- Strong grasp of **JavaScript, TypeScript, React, Node.js, Express, MongoDB**  
-- Passionate about clean architecture, meaningful UI, and developer autonomy  
-- I value intensity, persistence, and direct problem-solving over buzzwords
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend:**  
-- HTML5, CSS3, Tailwind CSS
-- JavaScript (ES6+), TypeScript
-- React, Redux Toolkit
-
-**Backend:**  
-- Node.js, Express.js
-- MongoDB, Mongoose, SQL
-- JWT Authentication
-- RESTful APIs, GraphQL
-
-**Other:**  
-- Docker, CI/CD
-- Git & GitHub  
-- ESLint & Prettier  
-- Unit Testing, Playwright
-
----
-
-## 📌 Projects
-
-### 🔹 [DevConnect](https://github.com/gmartirosyan-bash/DevConnect-front)  
-Trello-style task board with authentication, card/column drag-and-drop, full CRUD, and custom UI.  
-Built with **React, Node.js, TypeScript, MongoDB**, and deployed on Render.
-
+Software Engineer with experience in full-stack development. Skilled in building and maintaining scalable applications, implementing real-time features, and optimizing workflows through automation. Experienced in modernizing existing codebases and maintaining scalable, efficient applications, with a track record of delivering efficient solutions and collaborating effectively in international teams.
 ---
 
 ## 📫 Reach Me
