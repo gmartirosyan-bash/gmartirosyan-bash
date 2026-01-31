@@ -5,7 +5,6 @@ Software Engineer with experience in full-stack development. Skilled in building
 ## 📫 Reach Me
 
 - Email: gagikmartirosyan753@gmail.com  
-- Phone: 37498188213
 ---
 
 <!--
