@@ -2,9 +2,6 @@
 
 Software Engineer with experience in full-stack development. Skilled in building and maintaining scalable applications, implementing real-time features, and optimizing workflows through automation. Experienced in modernizing existing codebases and maintaining scalable, efficient applications, with a track record of delivering efficient solutions and collaborating effectively in international teams.
 
-## 📫 Reach Me
-
-- Email: gagikmartirosyan753@gmail.com  
 ---
 
 <!--
